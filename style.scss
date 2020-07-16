@@ -1,0 +1,14 @@
+$num-colors: 100;
+$base-color: rgb(228, 164, 122);
+
+@mixin random-bgr(){
+    background-color: rgb(random(255), random(255), random(255));
+  }
+
+.swatch {
+    @for $i from -1 to $num-colors {
+        --color-sample-#{$i+1} {
+            @include random-bgr();
+        }
+    } 
+    }

@@ -1,0 +1,307 @@
+.swatch {
+--color-sample-0: 
+  #2d7767;
+
+--color-sample-1:
+  #aff03a;
+
+--color-sample-2:
+  #c32bc3;
+
+--color-sample-3: 
+  #6614f2;
+
+--color-sample-4: 
+  #428919;
+
+--color-sample-5: 
+  #fde61b;
+
+--color-sample-6:
+  #221b8c;
+
+--color-sample-7: 
+  #9eb71d;
+
+--color-sample-8:
+  #224049;
+
+--color-sample-9: 
+  #f22a47;
+
+--color-sample-10: 
+  #b2017c;
+
+--color-sample-11: 
+  #03fc07;
+
+--color-sample-12:
+  #b2fcef;
+
+--color-sample-13:
+  #465242;
+
+--color-sample-14:
+  #6e2996;
+
+--color-sample-15:
+  #58e3ec;
+
+--color-sample-16:
+  #e217ed;
+
+--color-sample-17:
+  #37e1aa;
+
+--color-sample-18: 
+  #e78265;
+
+--color-sample-19: 
+  #d352ef;
+
+--color-sample-20: 
+  #fb1301;
+
+--color-sample-21: 
+  #c7bcc8;
+
+--color-sample-22:
+  #ad085d;
+
+--color-sample-23: 
+  #7c9403;
+
+--color-sample-24:
+  #bb0f98;
+
+--color-sample-25:
+  #a79cb2;
+
+--color-sample-26: 
+  #06fd5b;
+
+--color-sample-27:
+  #a89e99;
+
+--color-sample-28: 
+  #e1c5de;
+
+--color-sample-29: 
+  #4ac4b9;
+
+--color-sample-30: 
+  #058869;
+
+--color-sample-31: 
+  #e5e383;
+
+--color-sample-32: 
+  #eca344;
+
+--color-sample-33:
+  #01318c;
+
+--color-sample-34:
+  #26f0a5;
+
+--color-sample-35: 
+  #a79bb7;
+
+--color-sample-36: 
+  #637fa9;
+
+--color-sample-37: 
+  #306b74;
+
+--color-sample-38:
+  #aaff4e;
+
+--color-sample-39: 
+  #d94fd0;
+
+--color-sample-40: 
+  #ef6c1c;
+
+--color-sample-41: 
+  #848e1e;
+
+--color-sample-42: 
+  #b7b37b;
+
+--color-sample-43:
+  #a8b8c3;
+
+--color-sample-44:
+  #d93822;
+
+--color-sample-45: 
+  #e5931e;
+
+--color-sample-46:
+  #a674e5;
+
+--color-sample-47: 
+  #a6711d;
+
+--color-sample-48: 
+  #efa73b;
+
+--color-sample-49:
+  #914d0e;
+
+--color-sample-50:
+  #96a0a1;
+
+--color-sample-51:
+  #84a464;
+
+--color-sample-52: 
+  #f6b641;
+
+--color-sample-53: 
+  #6538b9;
+
+--color-sample-54: 
+  #8d87ff;
+
+--color-sample-55:
+  #809de4;
+
+--color-sample-56:
+  #6a413d;
+
+--color-sample-57:
+  #732ce6;
+
+--color-sample-58:
+  #22f7ef;
+
+--color-sample-59:
+  #dcf967;
+
+--color-sample-60:
+  #d0084f;
+
+--color-sample-61: 
+  #060377;
+
+--color-sample-62: 
+  #dc49e4;
+
+--color-sample-63: 
+  #0d0afb;
+
+--color-sample-64:
+  #79307c;
+
+--color-sample-65: 
+  #c774d5;
+
+--color-sample-66: 
+  #9a9f6a;
+
+--color-sample-67:
+  #633c0c;
+
+--color-sample-68: 
+  #bbca8a;
+
+--color-sample-69: 
+  #43a167;
+
+--color-sample-70: 
+  #7f482e;
+
+--color-sample-71: 
+  #1b5d5d;
+
+--color-sample-72: 
+  #e0c1f7;
+
+--color-sample-73:
+  #376fe6;
+
+--color-sample-74: 
+  #a922e2;
+
+--color-sample-75:
+  #ce3217;
+
+--color-sample-76: 
+  #5880b0;
+
+--color-sample-77: 
+  #0c890b;
+
+--color-sample-78:
+  #709207;
+
+--color-sample-79: 
+  #e8510f;
+
+--color-sample-80: 
+  #d0d756;
+
+--color-sample-81: 
+  #85b4a8;
+
+--color-sample-82: 
+  #d5cf20;
+
+--color-sample-83:
+  #709b4a;
+
+--color-sample-84: 
+  #dac2b1;
+
+--color-sample-85: 
+  #e2bbf1;
+
+--color-sample-86:
+  #e904fb;
+
+--color-sample-87: 
+  #f154e9;
+
+--color-sample-88:
+  #029418;
+
+--color-sample-89: 
+  #af4b62;
+
+--color-sample-90:
+  #12ecd0;
+
+--color-sample-91:
+  #7d70ed;
+
+--color-sample-92: 
+  #b2568d;
+
+--color-sample-93: 
+  #ca2586;
+
+--color-sample-94: 
+  #38eb27;
+
+--color-sample-95: 
+  #03384f;
+
+--color-sample-96: 
+  #71a44f;
+
+--color-sample-97: 
+  #b8b37a;
+
+--color-sample-98:
+  #753689;
+
+--color-sample-99: 
+  #0e991e;
+
+--color-sample-100:
+  #c7af5d;
+
+
+}
+
